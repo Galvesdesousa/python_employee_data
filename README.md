@@ -28,7 +28,11 @@ Database Schema
 The program operates on a simple database schema with a single table named customers. The schema of the customers table is as follows:
 
 CREATE TABLE customers (
+
   customer_id INT AUTO_INCREMENT PRIMARY KEY,
+  
   name VARCHAR(255),
+  
   address VARCHAR(255)
+  
 );
