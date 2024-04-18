@@ -1,4 +1,5 @@
 Python MySQL Operations
+
 This Python program demonstrates basic operations with MySQL using the mysql.connector library. It includes functionalities to connect to a MySQL database, create a database, create tables, insert data, retrieve data, update data, and delete data.
 
 Installation
