@@ -24,6 +24,12 @@ python Python-MySql DB.py
 
 4. Follow the instructions in the console to perform various database operations.
 
+Testing
+
+To run the test suite, execute the following command:
+python test_database.py
+The test_database.py file contains unit tests for the database operations implemented in "Python-MySql DB.py." It verifies the functionality and ensures the correctness of the program.
+
 Database Schema
 The program operates on a simple database schema with a single table named customers. The schema of the customers table is as follows:
 
